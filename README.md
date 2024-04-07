@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KartoffelKodah
+- 👋 Hi, I’m @KKodah
 - 👀 I’m interested in becoming a front-end developer.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on my progress along my journey.
